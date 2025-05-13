@@ -2,6 +2,8 @@
 
 - My name's Adel
 - I'm currently Studying Computer science at the Technical University of Denmark
+- You can find my LinkedIn: [here](https://www.linkedin.com/in/adelahmad/)
+- My [email](mailto:adel051700@gmail.com)
 
 
 ## 🌐 Socials:
